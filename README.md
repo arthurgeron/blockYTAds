@@ -6,4 +6,4 @@
 **Adblock (Recommended software for desktops)**   
 **AdAway (Recommended software for rooted android devices)**
 
-
+Credits: <a href="https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/">ihoman202</a> for making the address list.
