@@ -53,3 +53,9 @@
 0.0.0.0 fwmrm.net
 0.0.0.0 innovid.com
 0.0.0.0 2mdn.net
+0.0.0.0 akamaitechnologies.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 ocsp.comodoca.com
+0.0.0.0 ocsp.usertrust.com
+0.0.0.0 cdn.globalsigncdn.com
+0.0.0.0 www3.l.google.com
