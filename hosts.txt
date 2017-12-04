@@ -76,3 +76,4 @@
 0.0.0.0 akamaitechnologies.com
 0.0.0.0 akamaiedge.net
 0.0.0.0 ocsp.comodoca.com
+0.0.0.0 yt3.ggpht.com
