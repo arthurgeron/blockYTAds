@@ -24,4 +24,6 @@ your `/etc/hosts` file
 Add  the contents of `https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt` to
 your `c:/windows/system32/drivers/etc/hosts` file
    
-Credits: <a href="https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/">ihoman202</a> for making the address list.
+Credits: <a href="https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/">ihoman202</a> for making the address list,
+ <a href="https://github.com/eLVee1991/youtubeblock">eLVee1991</a> for updated entries and <a href="https://discourse.pi-hole.net/t/how-do-i-block-ads-on-youtube/253/161">this</a> topic for keeping youtube ad blocking discussion alive.
+
