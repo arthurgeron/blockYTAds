@@ -5,6 +5,7 @@
 ## Applyes To
 **Adblock (Recommended software for desktops)**   
 **AdAway (Recommended software for rooted android devices)**   
+**DNS66 (Recommended software for unrooted android devices)**   
 **Hosts file in your computer**
 ## Usage
 ### Android Devices
