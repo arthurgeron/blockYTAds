@@ -12,7 +12,7 @@
 ### Rooted Devices:
 Download [AdAway](https://adaway.org) and add `https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt`
 to your listings
-### Non-Rooted Devices:
+### Unrooted Devices:
 Download [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) through [F-Droid](https://f-droid.org), add
 `https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt` to your domain listings.
 
