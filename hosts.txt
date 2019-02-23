@@ -115,5 +115,3 @@
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 youtube-nocookie.com
-0.0.0.0 youtube.com/api/stats/ads
-0.0.0.0 youtube.com/pagead
