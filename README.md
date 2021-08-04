@@ -1,3 +1,5 @@
+# Discontinued as there are better solutions and using a static address table to block Youtube Ads is no longer viable.
+
 # Block Youtube Ads    
 <img src="https://getadblock.com/images/logo_adblock.png"></img>   
 ## Purpose
